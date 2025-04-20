@@ -1,0 +1,17 @@
+input{
+    height: 40px;
+    border-radius: 5px;
+    justify-content: space-around;
+    gap: 5px;
+    background-color: rgb(249, 198, 172);
+    color:black;
+}
+p{
+    color: rgb(220, 97, 52);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 15px;
+}
+button{
+    background-color: green;
+}
